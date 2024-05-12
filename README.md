@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabin Neupane</h1>
 <h3 align="center">A passionate Backend developer from Nepal.</h3>
 
-- 🔭 I’m currently working on [Anydone](https://anydone.com)
-
 - 🌱 I’m currently learning **Algorithms, Data Structure , Deveops tools**
 
 - 📫 How to reach me **prabin.neupane.work@gmail.com**
